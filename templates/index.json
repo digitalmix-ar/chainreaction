@@ -35,7 +35,7 @@
         "content_position": "on-media",
         "color_scheme": "scheme-5",
         "autoplay": true,
-        "autoplay_speed": 5000,
+        "autoplay_speed": 5,
         "icons_style": "arrow",
         "icons_shape": "none",
         "padding-block-start": 0,
